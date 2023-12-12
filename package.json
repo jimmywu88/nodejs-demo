@@ -2,7 +2,7 @@
   "name": "nodejs-app",
   "version": "1.0.0",
   "description": "Hello World App",
-  "main": "helloworld.js",
+  "main": "app.js",
   "author": "SS2 K8s Training",
   "license": "ASL",
   "dependencies": {
